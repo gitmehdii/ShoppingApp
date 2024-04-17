@@ -9,4 +9,4 @@ Mehdi AZOUZ - 74531
 - [x] Make the video of the app
 - [x] Make the report
 - [x] Profile Page
-- [x] Make search option
+- [ ] Make search option
